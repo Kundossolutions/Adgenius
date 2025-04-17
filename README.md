@@ -1,3 +1,12 @@
+# AdGenius - Smart Ad Spend Optimizer for SMBs
+
+AdGenius helps small and medium businesses optimize their digital ad spend across platforms using AI insights and real-time analytics.
+
+---
+
+## Project Structure
+
+
 # Full-Stack Application
 
 This repository contains a full-stack application with a React frontend and a Node.js backend.
